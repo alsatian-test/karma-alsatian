@@ -29,5 +29,8 @@
   "homepage": "https://github.com/alsatian-test/karma-alsatian#readme",
   "devDependencies": {
     "typescript": "^2.1.4"
+  },
+  "dependencies": {
+    "alsatian": "^1.0.0"
   }
 }
