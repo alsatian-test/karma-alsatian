@@ -1,0 +1,29 @@
+{
+  "name": "karma-alsatian",
+  "version": "1.0.0",
+  "description": "1.0.0-alpha.0",
+  "main": "src/karma-alsatian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsatian-test/karma-alsatian.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-framework",
+    "alsatian",
+    "typescript",
+    "javascript",
+    "test",
+    "framework"
+  ],
+  "author": "James Richford <=> (=)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsatian-test/karma-alsatian/issues"
+  },
+  "homepage": "https://github.com/alsatian-test/karma-alsatian#readme"
+}
