@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "pretest": "npm run build",
-    "test": "alsatian \"./test/**/*.spec.js\""
+    "test": "alsatian \"./test/**/*.spec.js\"",
+    "karma-test": "karma start"
   },
   "repository": {
     "type": "git",
