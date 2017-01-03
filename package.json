@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/alsatian-test/karma-alsatian#readme",
   "devDependencies": {
+    "install-self": "^1.0.0-beta.7",
     "karma": "^1.3.0",
     "typescript": "^2.1.4"
   },
