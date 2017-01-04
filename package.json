@@ -5,6 +5,7 @@
   "main": "src/karma-alsatian.js",
   "scripts": {
     "build": "tsc",
+    "install-self": "install-self",
     "pretest": "npm run build",
     "test": "alsatian \"./test/**/*.spec.js\"",
     "karma-test": "karma start karma.config"
